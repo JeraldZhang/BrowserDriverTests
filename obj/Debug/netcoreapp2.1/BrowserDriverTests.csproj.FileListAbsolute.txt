@@ -1,0 +1,16 @@
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\BrowserDriverTests.deps.json
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\BrowserDriverTests.runtimeconfig.json
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\BrowserDriverTests.runtimeconfig.dev.json
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\BrowserDriverTests.dll
+C:\Users\Jerald\source\repos\EdgeDriverTests\bin\Debug\netcoreapp2.1\BrowserDriverTests.pdb
+C:\Users\Jerald\source\repos\EdgeDriverTests\obj\Debug\netcoreapp2.1\BrowserDriverTests.AssemblyInfoInputs.cache
+C:\Users\Jerald\source\repos\EdgeDriverTests\obj\Debug\netcoreapp2.1\BrowserDriverTests.AssemblyInfo.cs
+C:\Users\Jerald\source\repos\EdgeDriverTests\obj\Debug\netcoreapp2.1\BrowserDriverTests.csproj.CoreCompileInputs.cache
+C:\Users\Jerald\source\repos\EdgeDriverTests\obj\Debug\netcoreapp2.1\BrowserDriverTests.dll
+C:\Users\Jerald\source\repos\EdgeDriverTests\obj\Debug\netcoreapp2.1\BrowserDriverTests.pdb
+C:\Users\Jerald\source\repos\EdgeDriverTests\obj\Debug\netcoreapp2.1\BrowserDriverTests.genruntimeconfig.cache
